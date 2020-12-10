@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Fullstack Web Developer that is Looking for employment!
+### Hi there 👋 I'm a Fullstack Web Developer
 
 
 Here are some ideas to get you started:
